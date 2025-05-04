@@ -1,9 +1,11 @@
 # ColaborationTesting
 
 Parth Shroff 
-krishna simha
 First time doing collaboration 
-CognitiveFocus: A Multimodal App to Enhance Focus through Auditory and Visual Engagement
+
+
+krishna simha
+Focura: A Multimodal App to Enhance Focus through Auditory and Visual Engagement
 
  Project Overview
 
